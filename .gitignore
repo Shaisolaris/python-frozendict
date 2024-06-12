@@ -33,3 +33,5 @@ test/core.*
 .vs/
 .coverage
 coverage/
+config.bat
+node_modules

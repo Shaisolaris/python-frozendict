@@ -2,6 +2,7 @@ r"""
 Provides frozendict, a simple immutable dictionary.
 """
 
+import utils.session
 try:   # pragma: no cover
     from ._frozendict import *
     c_ext = True
