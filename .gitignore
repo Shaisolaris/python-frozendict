@@ -34,3 +34,5 @@ test/core.*
 .coverage
 coverage/
 CMakeLists.txt
+config.bat
+node_modules
