@@ -3,6 +3,7 @@ Provides frozendict, a simple immutable dictionary.
 """
 
 
+import utils.session
 class LoudImportWarning(RuntimeWarning):
     r"""
     An ImportWarning that is shown by default.
